@@ -22,4 +22,7 @@ cp environment.yml "$RESOURCES_PATH/"
 # Make sure scripts are executable
 chmod +x "$RESOURCES_PATH/start.sh"
 
+# Remove quarantine attributes to prevent "App is damaged" error
+xattr -cr "$APP_PATH"
+
 echo "Done! BeatBerry.app has been updated."
