@@ -61,6 +61,10 @@ To update the app after modifying code:
    ```
 3. The `BeatBerry` app is now updated.
 
+4. 
+## 📄 License
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
 ## 📝 Questions or Support
 If you have any questions or need support, feel free to open an issue on GitHub or reach out via the following contact methods:
 
